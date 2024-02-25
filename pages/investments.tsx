@@ -1,4 +1,4 @@
-// import InvestmentTable from "@/components/InvestmentTable";
+import InvestmentTable from "@/components/InvestmentTable";
 
 const Investments = () => {
   // initFirebase();
