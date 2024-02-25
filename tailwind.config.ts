@@ -15,6 +15,8 @@ const config: Config = {
       },
     },
   },
-  plugins: [],
+  corePlugins: {
+    transitionProperty: true,
+  },
 };
 export default config;
